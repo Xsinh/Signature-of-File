@@ -1,0 +1,6 @@
+C:\Users\Viper's\Desktop\VeeamSoftwere\SF\SF\bin\Release\SF.exe.config
+C:\Users\Viper's\Desktop\VeeamSoftwere\SF\SF\bin\Release\SF.exe
+C:\Users\Viper's\Desktop\VeeamSoftwere\SF\SF\bin\Release\SF.pdb
+C:\Users\Viper's\Desktop\VeeamSoftwere\SF\SF\obj\Release\SF.exe
+C:\Users\Viper's\Desktop\VeeamSoftwere\SF\SF\obj\Release\SF.pdb
+C:\Users\Viper's\Desktop\VeeamSoftwere\SF\SF\obj\Release\Signature.csprojResolveAssemblyReference.cache

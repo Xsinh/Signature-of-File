@@ -89,7 +89,7 @@ namespace Signature
         {
             using (FileStream fs = new FileStream(path + file, FileMode.Open))
             {
-                Int64 Flength = fs.Length / Convert.ToInt16(part);
+                Int64 Flength = fs.Length / Convert.ToInt64(part);
                 Int64 Fcount = fs.Length / Flength;
 
                 for (int i = 0; i < Fcount; i++)
